@@ -1,0 +1,6 @@
+.Layout {
+    display: grid;
+    height: 100%;
+    box-sizing: border-box;
+    grid-template-rows: 15fr 80fr 5fr;
+  }
